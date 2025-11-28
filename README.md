@@ -96,9 +96,9 @@ Timely creates a persistent JSON configuration file in your home directory to st
 
 ```text
 ------------------------------------------------
- USER SYNOPSIS: torvalds
- Primary Language: C
- Est. Frequency:   3.2 events/week
+ USER SYNOPSIS: Syntax404-coder
+ Primary Language: Python
+ Est. Frequency:   13.2 events/week
  Peak Activity:    14:00 - 14:59 (PHT)
 ------------------------------------------------
 
